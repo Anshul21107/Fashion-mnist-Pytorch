@@ -88,5 +88,3 @@ After training for several epochs, the models achieve good accuracy on the test 
 - LinkedIn: [Anshul Katiyar](https://www.linkedin.com/in/anshul-katiyar-430b23235/)
 
 ---
-
-Feel free to update the results and additional details based on your final trained models. Let me know if you need any modifications! 🚀
